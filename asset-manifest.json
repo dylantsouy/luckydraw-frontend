@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/luckydraw-frontend/static/css/main.8a83a50a.css",
+    "main.js": "/luckydraw-frontend/static/js/main.67126c90.js",
+    "static/js/787.ce35f3ca.chunk.js": "/luckydraw-frontend/static/js/787.ce35f3ca.chunk.js",
+    "static/media/background.png": "/luckydraw-frontend/static/media/background.25d0bd1d5823faf814a3.png",
+    "static/media/importUser.xlsx": "/luckydraw-frontend/static/media/importUser.f646f39072e25352d21b.xlsx",
+    "index.html": "/luckydraw-frontend/index.html",
+    "main.8a83a50a.css.map": "/luckydraw-frontend/static/css/main.8a83a50a.css.map",
+    "main.67126c90.js.map": "/luckydraw-frontend/static/js/main.67126c90.js.map",
+    "787.ce35f3ca.chunk.js.map": "/luckydraw-frontend/static/js/787.ce35f3ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a83a50a.css",
+    "static/js/main.67126c90.js"
+  ]
+}
